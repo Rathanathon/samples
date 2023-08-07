@@ -1,0 +1,61 @@
+#profiles.Logo.jpg.images {
+  min-height:400px;
+  background:url('../img/profiles.logo.background') no-repeat;
+
+/* My photo */
+#ima.Myphoto.profiles.logo{
+  min-height:400px;
+  background:url('../img/Phon Rathana-profiles_logo.jpg') no-repeat;
+}
+  background-position: center;
+  background-size: cover;
+  text-align:center;
+  color:#ffffff;
+}
+  #profiles.logo h1{
+   margin-top:480px;
+   font-size:360px;
+   margin-bottom:10px;
+}
+  #My.photo p{
+    font-size:20px;
+}
+   /* profiles.logo.jpg.images */
+  #profiles.logo{
+    padding:15px;
+    color:#ffffff;
+    background:#35424a
+}
+  #profiles.logo.jpg h1{
+    float:left;
+}
+  #profiles.logo.jpeg {
+    float:right;
+    margin-top:15px;
+}
+ #newsletter input[type="email"]{
+    padding:6px;
+    height:25px;
+    width:250px;
+}
+#imges My.photo.profiles h1{
+   margin-top:480px;
+   font-size:640px;
+   margin-bottom:10px;
+}
+#imges.My.photo h1{
+  font-size:20px;
+}
+/* business Logo*/
+#business.Logo{
+  padding:460px;
+  color:#ffffff;
+  background:#35424a
+}
+#imges.Myphoto.h1{
+  float:left;
+}
+#Myphoto.form {
+  float:right;
+  margin-top:15px;
+}
